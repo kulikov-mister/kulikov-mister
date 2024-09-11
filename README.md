@@ -69,6 +69,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
   ### And other tools:
   <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original-wordmark.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original-wordmark.svg" title="Gitbook" **alt="Gitbook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
