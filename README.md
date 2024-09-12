@@ -80,5 +80,12 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original-wordmark.svg" title="Gitbook" **alt="Gitbook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>&nbsp;
   </div>
+
+  ---
+
+  ### :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kulikov-mister&theme=dark&background=000000)](https://git.io/streak-stats)
+
   
 </div>
