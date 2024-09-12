@@ -91,7 +91,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>  
+  </a>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
