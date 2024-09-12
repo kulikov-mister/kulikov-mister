@@ -85,12 +85,14 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
   ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kulikov-mister&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kulikov-mister&theme=dark&locale=en&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
+
+  <a href="https://git.io/streak-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark">Top Langs</a>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulikov-mister&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  
   
 </div>
