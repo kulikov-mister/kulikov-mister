@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and telegram bots.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile web apps and telegram bots.
 
 - :seedling: Exploring Technical Content Writing.
 
